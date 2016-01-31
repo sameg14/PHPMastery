@@ -62,10 +62,6 @@ Clone [VirtualMachines](https://github.com/AustinCodingAcademy/VirtualMachines) 
 
 ***
 
-`Instructor`: [Samir Patel](http://samirpatel.me)
-
+`Instructor`: [Samir](http://samirpatel.me)
 `Phone`: (512) 745-7846
-
-`Email`: samir at austincodingacademy dot com
-
-`Office Hours`: 30 minutes after class
+`Email`: sameg14@gmail.com
