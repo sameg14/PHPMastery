@@ -18,7 +18,7 @@ Module 4 - [Object Oriented Programming](syllabus/04 Object Oriented Programming
 
 Module 5 - [Design Patterns](syllabus/05 Design Patterns.md) [:notebook_with_decorative_cover:](syllabus/homework/05_netflix_search.md)
 
-Module 6 - [MySQL Fundamentals](syllabus/06 MySQL Fundamentals.md)
+Module 6 - [MySQL Fundamentals](syllabus/06 MySQL Fundamentals.md) [:notebook_with_decorative_cover:](syllabus/homework/06_amazon_api.md)
 
 Module 7 - [Introduction to Symfony](syllabus/07 Introduction to Symfony.md)
 
