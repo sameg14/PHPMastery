@@ -4,14 +4,56 @@ We are being asked to create a translator that will convert english to morse cod
 
 The following is a 1-1 relationship between the english alphabet and morse code
 
-English
-```
-a b c d e f g h i j k l m n o p q r s t u v w x y z
-```
+JSON
+```javascript
+{
+  "0": "-----",
+  "1": ".----",
+  "2": "..---",
+  "3": "...--",
+  "4": "....-",
+  "5": ".....",
+  "6": "-....",
+  "7": "--...",
+  "8": "---..",
+  "9": "----.",
+  "a": ".-",
+  "b": "-...",
+  "c": "-.-.",
+  "d": "-..",
+  "e": ".",
+  "f": "..-.",
+  "g": "--.",
+  "h": "....",
+  "i": "..",
+  "j": ".---",
+  "k": "-.-",
+  "l": ".-..",
+  "m": "--",
+  "n": "-.",
+  "o": "---",
+  "p": ".--.",
+  "q": "--.-",
+  "r": ".-.",
+  "s": "...",
+  "t": "-",
+  "u": "..-",
+  "v": "...-",
+  "w": ".--",
+  "x": "-..-",
+  "y": "-.--",
+  "z": "--..",
+  ".": ".-.-.-",
+  ",": "--..--",
+  "?": "..--..",
+  "!": "-.-.--",
+  "-": "-....-",
+  "/": "-..-.",
+  "@": ".--.-.",
+  "(": "-.--.",
+  ")": "-.--.-"
+}
 
-Morse code
-```
-.- / -... / -.-. / -.. / . / ..-. / --. / .... / .. / .--- / -.- / .-.. / -- / -. / --- / .--. / --.- / .-. / ... / - / ..- / ...- / .-- / -..- / -.-- / --..
 ```
 
 Note that the separator in morse is ` / `
@@ -32,4 +74,5 @@ function englishToMorse($englishText)
 ```
 
 Pay special attention to dots `.` and dashes `-` if they are in the original input string as these may interfere with the translation. 
-Your code should be smart enough to translate just the possible set of characters. 
+Your code should be smart enough to translate just the possible set of characters.
+ 
