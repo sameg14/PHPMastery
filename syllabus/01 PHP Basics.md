@@ -310,6 +310,6 @@ while($keepRunning == true){
 
 ***
 
-##### Homework 01 - Count Types
+##### Homework 01 - Morse Code
 
-[Instructions & Starter Code](homework/01_count_types.md)
+[Instructions & Starter Code](homework/01_morse_code.md)
