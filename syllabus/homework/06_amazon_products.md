@@ -1,4 +1,4 @@
-##### Homework 06 - Amazon API
+##### Homework 06 - Amazon Products
 
 Today we will be investigating the use of Amazon's Advertising API
 
