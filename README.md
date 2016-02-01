@@ -1,4 +1,4 @@
-Intermediate PHP & MySQL
+PHP Mastery
 ========================
    ![PHP](images/php.png "PHP")       ![MySQL](images/mysql.png "MySQL")     ![Symfony](images/symfony.png "Symfony")      
 
