@@ -8,7 +8,7 @@ Intermediate PHP & MySQL
 apply some commonly used design patterns, write queries against a MySQL instance, configure apache and install Symfony. 
 > We will then spend the rest of the class working on an e-commerce project, which will ultimately become a part of our portfolio.
 
-Module 1 - [PHP Basics](syllabus/01 PHP Basics.md) [:notebook_with_decorative_cover:](syllabus/homework/01_count_types.md)
+Module 1 - [PHP Basics](syllabus/01 PHP Basics.md) [:notebook_with_decorative_cover:](syllabus/homework/01_morse_code.md)
 
 Module 2 - [Functions, Arrays & Strings](syllabus/02 Strings Functions Arrays.md) [:notebook_with_decorative_cover:](syllabus/homework/02_card_game.md)
 
