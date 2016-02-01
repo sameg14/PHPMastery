@@ -59,7 +59,7 @@ JSON
 Note that the separator in morse is ` / `
 
 
-Your translator function should look and behave as advertised
+Your translator function should look and behave as advertised and should be smart enough to translate just the possible set of characters.
 ```php
 <?php
 /**
@@ -71,11 +71,8 @@ function englishToMorse($englishText)
 {
 
 }
-```
-
-Pay special attention to dots `.` and dashes `-` if they are in the original input string as these may interfere with the translation. 
-Your code should be smart enough to translate just the possible set of characters. 
-
+``` 
+ 
 *Extra*
 - Account for encoding these additional features
 `
