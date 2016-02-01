@@ -38,6 +38,10 @@ Your code should be smart enough to translate just the possible set of character
 - Account for encoding these additional features
 `
 AA, New line
+`
+`
 AR, End of message
+`
+`
 SK, End of transmission
 `
