@@ -39,19 +39,15 @@ Here are some applications you will need installed.
 
 - [VirtualBox](https://www.virtualbox.org/) - Create and run a virtual development environment
 - [Vagrant](https://www.vagrantup.com/) - Provision a virtual machine
-- [ansible](http://docs.ansible.com/intro_installation.html) - Configure the VM
-- [PHPStorm](https://www.jetbrains.com/phpstorm/download/) - State of the art PHP IDE (we will be providing everyone student licenses)
 - [git](http://git-scm.com/) - Version control system
-- [SourceTree](http://www.sourcetreeapp.com/) - Free git GUI client
 
 #### Developer Environment
-
-
-#### Virtual Machine
-We have created a seperate repository that contains instructions on how to setup and configure your VM.
-Clone [VirtualMachines](https://github.com/AustinCodingAcademy/VirtualMachines) and follow the instructions.
-*Note: We will host workshops, prior to class, to help students setup their machines.*
-
+In order to setup your environment, you will need to download the following zip file
+[https://s3-us-west-2.amazonaws.com/vagrantvmboxes/php-mastery-code.zip](https://s3-us-west-2.amazonaws.com/vagrantvmboxes/php-mastery-code.zip)
+Once you have downloaded it, unzip it and observe the two folders contained therein
+- `shop` Will contain all the e-commerceo code we work on for your capstone project
+- `code` Will contain any in class code and homework examples
+You will need to create two local host entries for these two sites. Instructions for doing this will be in the README inside the zip archive
 
 #### Book
 [The Symfony Book](http://symfony.com/doc/current/book/index.html) - The Symfony bible, written and maintained by the core team
