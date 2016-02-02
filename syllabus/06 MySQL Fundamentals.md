@@ -257,3 +257,9 @@ This is what your ouput looks like
 |          2 | Nike Elite Crew |           2 | Athletic Socks |
 +------------+-----------------+-------------+----------------+
 ```
+
+#### Homework 056 - Amazon products
+
+We will be interacting with amazon's Product API this week
+
+[Instructions](homework/06_amazon_products.md)
